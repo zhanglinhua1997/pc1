@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "微软雅黑";
+    color: black;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img,
+textarea {
+    outline: none;
+}
+
+/* .common {
+    width: 1200px;
+    margin: 0 auto;
+} */
